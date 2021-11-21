@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name promicro)(type Legacy)(uri C:/Users/leone/Downloads/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/leone/Downloads/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri C:/Users/leone/Downloads/kicad_lib_tmk-master/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name Connector-ML)(type Legacy)(uri C:/Users/leone/Documents/Keyboards/SU120/su120-keyboard-master/pcb/symbol/Connector-ML.lib)(options "")(descr ""))
+)

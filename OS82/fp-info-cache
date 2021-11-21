@@ -1,0 +1,5237 @@
+1202870253092194
+Button_Switch_THT
+KSA_Tactile_SPST
+KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SWITCH SMD KSA SW
+0
+5
+5
+Button_Switch_THT
+Nidec_Copal_SH-7010C
+4-bit rotary coded switch, through-hole, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+5
+Button_Switch_THT
+Push_E-Switch_KS01Q01
+E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
+Push Button
+0
+4
+4
+Button_Switch_THT
+SW_CW_GPTS203211B
+SPST Off-On Pushbutton, 1A, 30V, CW Industries P/N GPTS203211B, http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf
+SPST button switch Off-On
+0
+2
+2
+Button_Switch_THT
+SW_CuK_JS202011AQN_DPDT_Angled
+CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+switch DPDT
+0
+6
+6
+Button_Switch_THT
+SW_CuK_JS202011CQN_DPDT_Straight
+CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+switch DPDT
+0
+6
+6
+Button_Switch_THT
+SW_CuK_OS102011MA1QN1_SPDT_Angled
+CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+Button_Switch_THT
+SW_DIP_SPSTx01_Piano_10.8x4.1mm_W7.62mm_P2.54mm
+1x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x4.1mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+2
+2
+Button_Switch_THT
+SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile
+1x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+2
+2
+Button_Switch_THT
+SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm
+1x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x4.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+2
+2
+Button_Switch_THT
+SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm
+2x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x6.64mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx02_Piano_CTS_Series194-2MSTN_W7.62mm_P2.54mm
+2x-dip-switch SPST CTS_Series194-2MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile
+2x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x6.64mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm
+2x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x7.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx03_Piano_10.8x9.18mm_W7.62mm_P2.54mm
+3x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x9.18mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx03_Piano_CTS_Series194-3MSTN_W7.62mm_P2.54mm
+3x-dip-switch SPST CTS_Series194-3MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile
+3x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x9.18mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm
+3x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x9.8mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx04_Piano_10.8x11.72mm_W7.62mm_P2.54mm
+4x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x11.72mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx04_Piano_CTS_Series194-4MSTN_W7.62mm_P2.54mm
+4x-dip-switch SPST CTS_Series194-4MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile
+4x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x11.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm
+4x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x12.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx05_Piano_10.8x14.26mm_W7.62mm_P2.54mm
+5x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x14.26mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx05_Piano_CTS_Series194-5MSTN_W7.62mm_P2.54mm
+5x-dip-switch SPST CTS_Series194-5MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx05_Slide_6.7x14.26mm_W7.62mm_P2.54mm_LowProfile
+5x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x14.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx05_Slide_9.78x14.88mm_W7.62mm_P2.54mm
+5x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x14.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx06_Piano_10.8x16.8mm_W7.62mm_P2.54mm
+6x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x16.8mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx06_Piano_CTS_Series194-6MSTN_W7.62mm_P2.54mm
+6x-dip-switch SPST CTS_Series194-6MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx06_Slide_6.7x16.8mm_W7.62mm_P2.54mm_LowProfile
+6x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x16.8mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx06_Slide_9.78x17.42mm_W7.62mm_P2.54mm
+6x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x17.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx07_Piano_10.8x19.34mm_W7.62mm_P2.54mm
+7x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x19.34mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx07_Piano_CTS_Series194-7MSTN_W7.62mm_P2.54mm
+7x-dip-switch SPST CTS_Series194-7MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx07_Slide_6.7x19.34mm_W7.62mm_P2.54mm_LowProfile
+7x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x19.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx07_Slide_9.78x19.96mm_W7.62mm_P2.54mm
+7x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x19.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx08_Piano_10.8x21.88mm_W7.62mm_P2.54mm
+8x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x21.88mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx08_Piano_CTS_Series194-8MSTN_W7.62mm_P2.54mm
+8x-dip-switch SPST CTS_Series194-8MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile
+8x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x21.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm
+8x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x22.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx09_Piano_10.8x24.42mm_W7.62mm_P2.54mm
+9x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x24.42mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx09_Piano_CTS_Series194-9MSTN_W7.62mm_P2.54mm
+9x-dip-switch SPST CTS_Series194-9MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx09_Slide_6.7x24.42mm_W7.62mm_P2.54mm_LowProfile
+9x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x24.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx09_Slide_9.78x25.04mm_W7.62mm_P2.54mm
+9x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x25.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm
+10x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x26.96mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx10_Piano_CTS_Series194-10MSTN_W7.62mm_P2.54mm
+10x-dip-switch SPST CTS_Series194-10MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx10_Slide_6.7x26.96mm_W7.62mm_P2.54mm_LowProfile
+10x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x26.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx10_Slide_9.78x27.58mm_W7.62mm_P2.54mm
+10x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x27.58mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx11_Piano_10.8x29.5mm_W7.62mm_P2.54mm
+11x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x29.5mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx11_Piano_CTS_Series194-11MSTN_W7.62mm_P2.54mm
+11x-dip-switch SPST CTS_Series194-11MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx11_Slide_6.7x29.5mm_W7.62mm_P2.54mm_LowProfile
+11x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x29.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx11_Slide_9.78x30.12mm_W7.62mm_P2.54mm
+11x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x30.12mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx12_Piano_10.8x32.04mm_W7.62mm_P2.54mm
+12x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x32.04mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+24
+24
+Button_Switch_THT
+SW_DIP_SPSTx12_Piano_CTS_Series194-12MSTN_W7.62mm_P2.54mm
+12x-dip-switch SPST CTS_Series194-12MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+24
+24
+Button_Switch_THT
+SW_DIP_SPSTx12_Slide_6.7x32.04mm_W7.62mm_P2.54mm_LowProfile
+12x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x32.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+24
+24
+Button_Switch_THT
+SW_DIP_SPSTx12_Slide_9.78x32.66mm_W7.62mm_P2.54mm
+12x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x32.66mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+24
+24
+Button_Switch_THT
+SW_E-Switch_EG1224_SPDT_Angled
+E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf
+switch SPDT
+0
+7
+3
+Button_Switch_THT
+SW_E-Switch_EG1271_DPDT
+E-Switch sub miniature slide switch, EG series, DPDT, http://spec_sheets.e-switch.com/specs/P040047.pdf
+switch DPDT
+0
+6
+6
+Button_Switch_THT
+SW_E-Switch_EG2219_DPDT_Angled
+E-Switch slide switch, EG series, DPDT, right angle, http://spec_sheets.e-switch.com/specs/P040170.pdf
+switch DPDT
+0
+10
+6
+Button_Switch_THT
+SW_Lever_1P2T_NKK_GW12LxH
+Switch, single pole double throw, right angle, http://www.nkkswitches.com/pdf/GW.pdf
+switch single-pole double-throw spdt ON-ON horizontal
+0
+5
+3
+Button_Switch_THT
+SW_MEC_5GTH9
+MEC 5G single pole normally-open tactile switch https://cdn.sos.sk/productdata/80/f6/aabf7be6/5gth9358222.pdf
+switch normally-open pushbutton push-button
+0
+4
+2
+Button_Switch_THT
+SW_NKK_BB15AH
+https://www.nkkswitches.com/pdf/Bpushbuttons-1.pdf
+Pushbutton Right-angle
+0
+5
+3
+Button_Switch_THT
+SW_NKK_G1xJP
+Switch NKK G1xJP http://www.nkkswitches.com/pdf/gwillum.pdf
+SWITCH TOGGLE ILLUM SPDT NKK
+0
+6
+6
+Button_Switch_THT
+SW_NKK_GW12LJP
+Switch, single pole double throw, illuminated paddle, http://www.nkkswitches.com/pdf/gwillum.pdf
+switch single-pole double-throw spdt ON-ON illuminated LED
+0
+6
+6
+Button_Switch_THT
+SW_PUSH-12mm
+SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf
+tact sw push 12mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH-12mm_Wuerth-430476085716
+SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf
+tact sw push 12mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H4.3mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H5mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H7.3mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=7.3mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H8.5mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=8.5mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H8mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=8mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H9.5mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=9.5mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H13mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=13mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_E-Switch_FS5700DP_DPDT
+FS5700 series pushbutton footswitch, DPDT, https://www.e-switch.com/system/asset/product_line/data_sheet/226/FS5700.pdf
+switch DPDT footswitch
+0
+6
+6
+Button_Switch_THT
+SW_PUSH_LCD_E3_SAxxxx
+Switch with LCD screen E3 SAxxxx
+switch normally-open pushbutton push-button LCD
+0
+6
+6
+Button_Switch_THT
+SW_PUSH_LCD_E3_SAxxxx_SocketPins
+Switch with LCD screen E3 SAxxxx
+switch normally-open pushbutton push-button LCD
+0
+6
+6
+Button_Switch_THT
+SW_Push_1P1T_NO_LED_E-Switch_TL1250
+illuminated right angle tact switch https://www.e-switch.com/system/asset/product_line/data_sheet/148/TL1250.pdf
+led push switch right angle
+0
+6
+4
+Button_Switch_THT
+SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
+ right angle SPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf
+IP67 ultra-miniture horizontal
+0
+5
+3
+Button_Switch_THT
+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6
+ right angle DPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf
+IP67 ultra-miniture horizontal
+0
+8
+6
+Button_Switch_THT
+SW_Slide_1P2T_CK_OS102011MS2Q
+CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+Button_Switch_THT
+SW_TH_Tactile_Omron_B3F-10xx
+SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+Omron B3F-10xx
+0
+4
+4
+Button_Switch_THT
+SW_Tactile_SKHH_Angled
+tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html
+tactile switch 6mm ALPS SKHH right angle
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx31-2LFS
+tactile switch SPST right angle, PTS645VL31-2 LFS
+tactile switch SPST angled PTS645VL31-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx39-2LFS
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx58-2LFS
+tactile switch SPST right angle, PTS645VL58-2 LFS
+tactile switch SPST angled PTS645VL58-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx83-2LFS
+tactile switch SPST right angle, PTS645VL83-2 LFS
+tactile switch SPST angled PTS645VL83-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_Straight_KSA0Axx1LFTR
+SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SW PUSH SMALL Tactile C&K
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_Straight_KSL0Axx1LFTR
+SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SW PUSH SMALL Tactile C&K
+0
+4
+2
+Connector_Audio
+Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles
+TRS 3.5mm, horizontal, through-hole, , circular holeshttps://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
+TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
+TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_Ledino_KB3SPRS_Horizontal
+https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
+jack stereo TRS
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_PJ311_Horizontal
+PJ311 6pin SMD 3.5mm stereo headphones jack.
+headphones jack plug stereo 3.5mm PJ311
+0
+6
+6
+Connector_Audio
+Jack_3.5mm_PJ320D_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_PJ320E_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320E-177.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+5
+4
+Connector_Audio
+Jack_3.5mm_PJ31060-I_Horizontal
+PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)
+headphones jack plug stereo 3.5mm PJ31060-I PJ31060
+0
+6
+6
+Connector_Audio
+Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
+WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_Switronic_ST-005-G_horizontal
+3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf
+Connector Audio Switronic ST-005-G
+0
+4
+3
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ2FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, Non-switching mono jack (T/S), https://www.neutrik.com/en/product/nj2fd-v
+neutrik jack vertical
+0
+2
+2
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ3FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, Non-switching stereo jack (T/R/S), https://www.neutrik.com/en/product/nj3fd-v
+neutrik jack vertical
+0
+3
+3
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ5FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 2 x switching (normalling) stereo jack (T/TN/R/RN/S), https://www.neutrik.com/en/product/nj5fd-v
+neutrik jack vertical
+0
+5
+5
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 3 x switching (normalling) stereo jack (T/TN/R/RN/S/SN), https://www.neutrik.com/en/product/nj6fd-v
+neutrik jack vertical
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ6TB-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 3 x switching (normalling) stereo jack  B-gauge type (T/TN/R/RN/S/SN), https://www.neutrik.com/en/product/nj6tb-v
+neutrik jack vertical
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj4hcd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with full threaded nose and straight PCB pins, https://www.neutrik.com/en/product/nmj4hfd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with a full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hfd3
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HHD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with a half threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hhd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HCD3_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and offset PCB pins, https://www.neutrik.com/en/product/nmj6hcd3
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, full threaded nose, straight PCB pins, gold plated contacts, https://www.neutrik.com/en/product/nmj6hfd2-au
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and straight PCB pins, https://www.neutrik.com/en/product/nmj6hfd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD3_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj6hfd3
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and fishtail PCB pins, https://www.neutrik.com/en/product/nmj6hfd4
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HHD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with half threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj6hhd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, unswitched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj3hf-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj4hf-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HF_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj4hf
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HH-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj4hh-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj4hh
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-1-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hf-1-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hf-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hh-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, half threaded nose, https://www.neutrik.com/en/product/nrj6hh-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj6hh
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose, gold plated contacts, efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose, efficient chassis ground connection, T+R normalling contact, https://www.neutrik.com/en/product/nrj6hm-1-pre
+neutrik jack slim
+0
+6
+5
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose with efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ8HC_Horizontal
+Stacking Jacks, Mono dual jack, full nose, https://www.neutrik.com/en/product/nsj8hc
+neutrik jack stacking
+0
+9
+9
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ8HL_Horizontal
+Stacking Jacks, Mono dual jack, quick fix nose, https://www.neutrik.com/en/product/nsj8hl
+neutrik jack stacking
+0
+9
+9
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HC_Horizontal
+Stacking Jacks, Stereo dual jack, full nose, https://www.neutrik.com/en/product/nsj12hc
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal
+Stacking Jacks, Stereo dual jack, full threaded nose, https://www.neutrik.com/en/product/nsj12hf-1
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal
+Stacking Jacks, Stereo dual jack, half threaded nose, https://www.neutrik.com/en/product/nsj12hh-1
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
+Stacking Jacks, Stereo dual jack, quick fix nose, https://www.neutrik.com/en/product/nsj12hl
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj5fi-h-0
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj5fi-h
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj5fi-v-0
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj5fi-v
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fa-h-0
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-DA_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/ncj6fa-h-da
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, https://www.neutrik.com/en/product/ncj6fa-h
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-0_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fa-v-0
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/ncj6fa-v-da
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj6fa-v
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj6fi-h-0
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fi-h
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj6fi-v-0
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fi-v
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, horizontal PCB mount, https://www.neutrik.com/en/product/ncj9fi-h-0
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj9fi-h
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj9fi-v-0
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj9fi-v
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj10fi-h-0
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj10fi-h
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj10fi-v-0
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj10fi-v
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah1-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1-DA_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3faah1-da
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH2-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah2-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH2_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah2
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV-0_Vertical
+AA Series, 3 pole female receptacle, grounding: without ground/shell contact, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav1-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3faav1-da
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV2-0_Vertical
+AA Series, 3 pole female receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav2-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV2_Vertical
+AA Series, 3 pole female receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav2
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV_Vertical
+AA Series, 3 pole female receptacle, grounding: without ground/shell contact, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fah1-da
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2-DA_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fah2-da
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, lateral left PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahl-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahl1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3fahl1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR2-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR2_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1-DA_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fav1-da
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2-DA_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fav2-da
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV_Vertical
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-B_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbh1-b
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-DA_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbh1-da
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-E_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3fbh1-e
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fbh1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-B_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbh2-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-DA_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbh2-da
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-E_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3fbh2-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fbh2
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBHL1_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3fbhl1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-0_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring, no latch, https://www.neutrik.com/en/product/nc3fbv1-0
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-B_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbv1-b
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-DA_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbv1-da
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-B_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbv2-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-DA_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbv2-da
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-SW_Vertical
+B Series, 3 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv2-sw
+neutrik xlr b
+0
+7
+7
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv2
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH-0_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH-1_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah-1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV-0_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV-1_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
+A Series, Chassis connector H female (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mafh-ph
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAH-0_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mah-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAHL_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3mahl
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAHR_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3mahr
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAH_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mah
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal
+A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAV-0_Vertical
+A Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3mav-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAV_Vertical
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3mav
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-0_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh-0
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-1_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh-1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbh-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-E_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3mbh-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHL-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral left PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbhl-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHL_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral left PCB mount, https://www.neutrik.com/en/product/nc3mbhl
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHR-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral right PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbhr-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHR_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral right PCB mount, https://www.neutrik.com/en/product/nc3mbhr
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-0_Vertical
+B Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-0
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-1_Vertical
+B Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-B_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbv-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-E_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3mbv-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-SW_Vertical
+B Series, 3 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-sw
+neutrik xlr b
+0
+7
+7
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAH-0_Horizontal
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc4fah-0
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAH_Horizontal
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4fah
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAV-0_Vertical
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc4fav-0
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAV_Vertical
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4fav
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FBH_Horizontal
+B Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4fbh
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FBV_Vertical
+B Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4fbv
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MAH_Horizontal
+A Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4mah
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MAV_Vertical
+A Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4mav
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MBH_Horizontal
+B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4mbh
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MBV_Vertical
+B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4mbv
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH-0_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc5fah-0
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH-DA_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc5fah-da
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5fah
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV-DA_Vertical
+A Series, 5 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc5fav-da
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV-SW_Vertical
+A Series, 5 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, color coding possible, https://www.neutrik.com/en/product/nc5fav-sw
+neutrik xlr a
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV_Vertical
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fav
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBH-B_Horizontal
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5fbh-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBH_Horizontal
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5fbh
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV-B_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5fbv-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV-SW_Vertical
+B Series, 5 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv-sw
+neutrik xlr b
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAH_Horizontal
+A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5mah
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAV-SW_Vertical
+A Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav-sw
+neutrik xlr a
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAV_Vertical
+A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBH-B_Horizontal
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5mbh-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBH_Horizontal
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5mbh
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV-B_Vertical
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5mbv-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV-SW_Vertical
+B Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mbv-sw
+neutrik xlr b
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV_Vertical
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mbv
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_speakON-6.35mm_Neutrik_NLJ2MD-H_Horizontal
+speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, horizontal pcb mount, https://www.neutrik.com/en/product/nlj2md-h
+neutrik speakon combo
+0
+2
+2
+Connector_Audio
+Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical
+speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, vertical pcb mount, https://www.neutrik.com/en/product/nlj2md-v
+neutrik speakon combo
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL2MD-H_Horizontal
+speakON Chassis Connectors, 2 pole chassis connector, gray D-size flange, countersunk thru holes, horizontal PCB, https://www.neutrik.com/en/product/nl2md-h
+neutrik speakon
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL2MD-V_Vertical
+speakON Chassis Connectors, 2 pole chassis connector, black D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl2md-v
+neutrik speakon
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-1_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, countersunk thru holes, horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-1
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-2_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-2
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-3_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-3
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-1_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-1
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-2_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-2
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-R_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, red D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-r
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-S_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, switchable version of NL4MD-V with 8 vertical PCB contacts (4 switching contacts), https://www.neutrik.com/en/product/nl4md-v-s
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL8MD-V-1_Vertical
+speakON Chassis Connectors, 8 pole chassis connector, nickel metal square G-size flange, self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl8md-v-1
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NL8MD-V_Vertical
+speakON Chassis Connectors, 8 pole chassis connector, nickel metal square G-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl8md-v
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NLT4MD-V_Vertical
+STX Series, 4 pole male chassis connector, metal housing, vertical PCB mount,  self tapping screw holes (A-screw), https://www.neutrik.com/en/product/nlt4md-v
+neutrik speakon stx
+0
+4
+4
+Connector_Audio
+MiniXLR-5_Switchcraft_TRAPC_Horizontal
+http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF
+THT Mini XLR 5Pin right angle
+0
+5
+5
+Diode_THT
+D_5KPW_P7.62mm_Vertical_AnodeUp
+Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5KPW series Axial Vertical pin pitch 7.62mm  length 9mm diameter 8mm
+0
+2
+2
+Diode_THT
+D_5KPW_P7.62mm_Vertical_KathodeUp
+Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5KPW series Axial Vertical pin pitch 7.62mm  length 9mm diameter 8mm
+0
+2
+2
+Diode_THT
+D_5KPW_P12.70mm_Horizontal
+Diode, 5KPW series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5KPW series Axial Horizontal pin pitch 12.7mm  length 9mm diameter 8mm
+0
+2
+2
+Diode_THT
+D_5KP_P7.62mm_Vertical_AnodeUp
+Diode, 5KP series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm
+0
+2
+2
+Diode_THT
+D_5KP_P7.62mm_Vertical_KathodeUp
+Diode, 5KP series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5KP series Axial Vertical pin pitch 7.62mm  length 7.62mm diameter 9.53mm
+0
+2
+2
+Diode_THT
+D_5KP_P10.16mm_Horizontal
+Diode, 5KP series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5KP series Axial Horizontal pin pitch 10.16mm  length 7.62mm diameter 9.53mm
+0
+2
+2
+Diode_THT
+D_5KP_P12.70mm_Horizontal
+Diode, 5KP series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=7.62*9.53mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5KP series Axial Horizontal pin pitch 12.7mm  length 7.62mm diameter 9.53mm
+0
+2
+2
+Diode_THT
+D_5W_P5.08mm_Vertical_AnodeUp
+Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm
+0
+2
+2
+Diode_THT
+D_5W_P5.08mm_Vertical_KathodeUp
+Diode, 5W series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5W series Axial Vertical pin pitch 5.08mm  length 8.9mm diameter 3.7mm
+0
+2
+2
+Diode_THT
+D_5W_P10.16mm_Horizontal
+Diode, 5W series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5W series Axial Horizontal pin pitch 10.16mm  length 8.9mm diameter 3.7mm
+0
+2
+2
+Diode_THT
+D_5W_P12.70mm_Horizontal
+Diode, 5W series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=8.9*3.7mm^2, , http://www.diodes.com/_files/packages/8686949.gif
+Diode 5W series Axial Horizontal pin pitch 12.7mm  length 8.9mm diameter 3.7mm
+0
+2
+2
+Diode_THT
+D_A-405_P2.54mm_Vertical_AnodeUp
+Diode, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_A-405_P2.54mm_Vertical_KathodeUp
+Diode, A-405 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_A-405_P5.08mm_Vertical_AnodeUp
+Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_A-405_P5.08mm_Vertical_KathodeUp
+Diode, A-405 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_A-405_P7.62mm_Horizontal
+Diode, A-405 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_A-405_P10.16mm_Horizontal
+Diode, A-405 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_A-405_P12.70mm_Horizontal
+Diode, A-405 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/A-405.pdf
+Diode A-405 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-15_P2.54mm_Vertical_AnodeUp
+Diode, DO-15 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Vertical pin pitch 2.54mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P2.54mm_Vertical_KathodeUp
+Diode, DO-15 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Vertical pin pitch 2.54mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P3.81mm_Vertical_AnodeUp
+Diode, DO-15 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Vertical pin pitch 3.81mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P3.81mm_Vertical_KathodeUp
+Diode, DO-15 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Vertical pin pitch 3.81mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P5.08mm_Vertical_AnodeUp
+Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P5.08mm_Vertical_KathodeUp
+Diode, DO-15 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Vertical pin pitch 5.08mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P10.16mm_Horizontal
+Diode, DO-15 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Horizontal pin pitch 10.16mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P12.70mm_Horizontal
+Diode, DO-15 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Horizontal pin pitch 12.7mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-15_P15.24mm_Horizontal
+Diode, DO-15 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=7.6*3.6mm^2, , http://www.diodes.com/_files/packages/DO-15.pdf
+Diode DO-15 series Axial Horizontal pin pitch 15.24mm  length 7.6mm diameter 3.6mm
+0
+2
+2
+Diode_THT
+D_DO-27_P5.08mm_Vertical_AnodeUp
+Diode, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
+Diode DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm
+0
+2
+2
+Diode_THT
+D_DO-27_P5.08mm_Vertical_KathodeUp
+Diode, DO-27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
+Diode DO-27 series Axial Vertical pin pitch 5.08mm  length 9.52mm diameter 5.33mm
+0
+2
+2
+Diode_THT
+D_DO-27_P12.70mm_Horizontal
+Diode, DO-27 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
+Diode DO-27 series Axial Horizontal pin pitch 12.7mm  length 9.52mm diameter 5.33mm
+0
+2
+2
+Diode_THT
+D_DO-27_P15.24mm_Horizontal
+Diode, DO-27 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.52*5.33mm^2, , http://www.slottechforum.com/slotinfo/Techstuff/CD2%20Diodes%20and%20Transistors/Cases/Diode%20DO-27.jpg
+Diode DO-27 series Axial Horizontal pin pitch 15.24mm  length 9.52mm diameter 5.33mm
+0
+2
+2
+Diode_THT
+D_DO-34_SOD68_P2.54mm_Vertical_AnodeUp
+Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+Diode_THT
+D_DO-34_SOD68_P2.54mm_Vertical_KathodeUp
+Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Vertical pin pitch 2.54mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+Diode_THT
+D_DO-34_SOD68_P5.08mm_Vertical_AnodeUp
+Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+Diode_THT
+D_DO-34_SOD68_P5.08mm_Vertical_KathodeUp
+Diode, DO-34_SOD68 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Vertical pin pitch 5.08mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+Diode_THT
+D_DO-34_SOD68_P7.62mm_Horizontal
+Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Horizontal pin pitch 7.62mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+Diode_THT
+D_DO-34_SOD68_P10.16mm_Horizontal
+Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Horizontal pin pitch 10.16mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+Diode_THT
+D_DO-34_SOD68_P12.70mm_Horizontal
+Diode, DO-34_SOD68 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=3.04*1.6mm^2, , https://www.nxp.com/docs/en/data-sheet/KTY83_SER.pdf
+Diode DO-34_SOD68 series Axial Horizontal pin pitch 12.7mm  length 3.04mm diameter 1.6mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P2.54mm_Vertical_AnodeUp
+Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P2.54mm_Vertical_KathodeUp
+Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Vertical pin pitch 2.54mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P3.81mm_Vertical_AnodeUp
+Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp
+Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Vertical pin pitch 3.81mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P5.08mm_Vertical_AnodeUp
+Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P5.08mm_Vertical_KathodeUp
+Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Vertical pin pitch 5.08mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P7.62mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P10.16mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 10.16mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-35_SOD27_P12.70mm_Horizontal
+Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
+Diode DO-35_SOD27 series Axial Horizontal pin pitch 12.7mm  length 4mm diameter 2mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P2.54mm_Vertical_AnodeUp
+Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P2.54mm_Vertical_KathodeUp
+Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Vertical pin pitch 2.54mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P3.81mm_Vertical_AnodeUp
+Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=5.2*2.7mm^2, , https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf
+Diode DO-41_SOD81 series Axial Vertical pin pitch 3.81mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P3.81mm_Vertical_KathodeUp
+Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=5.2*2.7mm^2, , https://www.diodes.com/assets/Package-Files/DO-41-Plastic.pdf
+Diode DO-41_SOD81 series Axial Vertical pin pitch 3.81mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P5.08mm_Vertical_AnodeUp
+Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P5.08mm_Vertical_KathodeUp
+Diode, DO-41_SOD81 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Vertical pin pitch 5.08mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P7.62mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P10.16mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-41_SOD81_P12.70mm_Horizontal
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 12.7mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Diode_THT
+D_DO-201AD_P3.81mm_Vertical_AnodeUp
+Diode, DO-201AD series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
+Diode DO-201AD series Axial Vertical pin pitch 3.81mm  length 9.5mm diameter 5.2mm
+0
+2
+2
+Diode_THT
+D_DO-201AD_P3.81mm_Vertical_KathodeUp
+Diode, DO-201AD series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
+Diode DO-201AD series Axial Vertical pin pitch 3.81mm  length 9.5mm diameter 5.2mm
+0
+2
+2
+Diode_THT
+D_DO-201AD_P5.08mm_Vertical_AnodeUp
+Diode, DO-201AD series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
+Diode DO-201AD series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 5.2mm
+0
+2
+2
+Diode_THT
+D_DO-201AD_P5.08mm_Vertical_KathodeUp
+Diode, DO-201AD series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
+Diode DO-201AD series Axial Vertical pin pitch 5.08mm  length 9.5mm diameter 5.2mm
+0
+2
+2
+Diode_THT
+D_DO-201AD_P12.70mm_Horizontal
+Diode, DO-201AD series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
+Diode DO-201AD series Axial Horizontal pin pitch 12.7mm  length 9.5mm diameter 5.2mm
+0
+2
+2
+Diode_THT
+D_DO-201AD_P15.24mm_Horizontal
+Diode, DO-201AD series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.5*5.2mm^2, , http://www.diodes.com/_files/packages/DO-201AD.pdf
+Diode DO-201AD series Axial Horizontal pin pitch 15.24mm  length 9.5mm diameter 5.2mm
+0
+2
+2
+Diode_THT
+D_DO-201AE_P3.81mm_Vertical_AnodeUp
+Diode, DO-201AE series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
+Diode DO-201AE series Axial Vertical pin pitch 3.81mm  length 9mm diameter 5.3mm
+0
+2
+2
+Diode_THT
+D_DO-201AE_P3.81mm_Vertical_KathodeUp
+Diode, DO-201AE series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
+Diode DO-201AE series Axial Vertical pin pitch 3.81mm  length 9mm diameter 5.3mm
+0
+2
+2
+Diode_THT
+D_DO-201AE_P5.08mm_Vertical_AnodeUp
+Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
+Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm
+0
+2
+2
+Diode_THT
+D_DO-201AE_P5.08mm_Vertical_KathodeUp
+Diode, DO-201AE series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
+Diode DO-201AE series Axial Vertical pin pitch 5.08mm  length 9mm diameter 5.3mm
+0
+2
+2
+Diode_THT
+D_DO-201AE_P12.70mm_Horizontal
+Diode, DO-201AE series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
+Diode DO-201AE series Axial Horizontal pin pitch 12.7mm  length 9mm diameter 5.3mm
+0
+2
+2
+Diode_THT
+D_DO-201AE_P15.24mm_Horizontal
+Diode, DO-201AE series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9*5.3mm^2, , http://www.farnell.com/datasheets/529758.pdf
+Diode DO-201AE series Axial Horizontal pin pitch 15.24mm  length 9mm diameter 5.3mm
+0
+2
+2
+Diode_THT
+D_DO-201_P3.81mm_Vertical_AnodeUp
+Diode, DO-201 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
+Diode DO-201 series Axial Vertical pin pitch 3.81mm  length 9.53mm diameter 5.21mm
+0
+2
+2
+Diode_THT
+D_DO-201_P3.81mm_Vertical_KathodeUp
+Diode, DO-201 series, Axial, Vertical, pin pitch=3.81mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
+Diode DO-201 series Axial Vertical pin pitch 3.81mm  length 9.53mm diameter 5.21mm
+0
+2
+2
+Diode_THT
+D_DO-201_P5.08mm_Vertical_AnodeUp
+Diode, DO-201 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
+Diode DO-201 series Axial Vertical pin pitch 5.08mm  length 9.53mm diameter 5.21mm
+0
+2
+2
+Diode_THT
+D_DO-201_P5.08mm_Vertical_KathodeUp
+Diode, DO-201 series, Axial, Vertical, pin pitch=5.08mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
+Diode DO-201 series Axial Vertical pin pitch 5.08mm  length 9.53mm diameter 5.21mm
+0
+2
+2
+Diode_THT
+D_DO-201_P12.70mm_Horizontal
+Diode, DO-201 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
+Diode DO-201 series Axial Horizontal pin pitch 12.7mm  length 9.53mm diameter 5.21mm
+0
+2
+2
+Diode_THT
+D_DO-201_P15.24mm_Horizontal
+Diode, DO-201 series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=9.53*5.21mm^2, , http://www.diodes.com/_files/packages/DO-201.pdf
+Diode DO-201 series Axial Horizontal pin pitch 15.24mm  length 9.53mm diameter 5.21mm
+0
+2
+2
+Diode_THT
+D_DO-247_Horizontal_TabDown
+Diode, DO-247 series, Horizontal, TabDown, P 10.9mm
+diode rectifier
+0
+2
+2
+Diode_THT
+D_DO-247_Horizontal_TabUp
+Diode, DO-247 series, Horizontal, TabUp, P 10.9mm
+diode rectifier
+0
+2
+2
+Diode_THT
+D_DO-247_Vertical
+Diode, DO-247 series, Vertical, P 10.9mm
+diode rectifier
+0
+2
+2
+Diode_THT
+D_P600_R-6_P7.62mm_Vertical_AnodeUp
+Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
+Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
+0
+2
+2
+Diode_THT
+D_P600_R-6_P7.62mm_Vertical_KathodeUp
+Diode, P600_R-6 series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
+Diode P600_R-6 series Axial Vertical pin pitch 7.62mm  length 9.1mm diameter 9.1mm
+0
+2
+2
+Diode_THT
+D_P600_R-6_P12.70mm_Horizontal
+Diode, P600_R-6 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
+Diode P600_R-6 series Axial Horizontal pin pitch 12.7mm  length 9.1mm diameter 9.1mm
+0
+2
+2
+Diode_THT
+D_P600_R-6_P20.00mm_Horizontal
+Diode, P600_R-6 series, Axial, Horizontal, pin pitch=20mm, , length*diameter=9.1*9.1mm^2, , http://www.vishay.com/docs/88692/p600a.pdf, http://www.diodes.com/_files/packages/R-6.pdf
+Diode P600_R-6 series Axial Horizontal pin pitch 20mm  length 9.1mm diameter 9.1mm
+0
+2
+2
+Diode_THT
+D_T-1_P2.54mm_Vertical_AnodeUp
+Diode, T-1 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Vertical pin pitch 2.54mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+Diode_THT
+D_T-1_P2.54mm_Vertical_KathodeUp
+Diode, T-1 series, Axial, Vertical, pin pitch=2.54mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Vertical pin pitch 2.54mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+Diode_THT
+D_T-1_P5.08mm_Horizontal
+Diode, T-1 series, Axial, Horizontal, pin pitch=5.08mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Horizontal pin pitch 5.08mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+Diode_THT
+D_T-1_P10.16mm_Horizontal
+Diode, T-1 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Horizontal pin pitch 10.16mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+Diode_THT
+D_T-1_P12.70mm_Horizontal
+Diode, T-1 series, Axial, Horizontal, pin pitch=12.7mm, , length*diameter=3.2*2.6mm^2, , http://www.diodes.com/_files/packages/T-1.pdf
+Diode T-1 series Axial Horizontal pin pitch 12.7mm  length 3.2mm diameter 2.6mm
+0
+2
+2
+Diode_THT
+Diode_Bridge_15.1x15.1x6.3mm_P10.9mm
+Single phase bridge rectifier case 15.1x15.1mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf
+Diode Bridge PB10xxS
+0
+4
+4
+Diode_THT
+Diode_Bridge_15.2x15.2x6.3mm_P10.9mm
+Single phase bridge rectifier case 15.2x15.2mm, pitch 10.9mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc600.pdf
+Diode Bridge KBPC6xx
+0
+4
+4
+Diode_THT
+Diode_Bridge_15.7x15.7x6.3mm_P10.8mm
+Single phase bridge rectifier case 15.7x15.7
+Diode Bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_16.7x16.7x6.3mm_P10.8mm
+Single phase bridge rectifier case 16.7x16.7
+Diode Bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_19.0x3.5x10.0mm_P5.0mm
+Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
+Vishay GBU rectifier diode bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_19.0x19.0x6.8mm_P12.7mm
+Single phase bridge rectifier case 19x19mm, pitch 12.7mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/pb1000.pdf
+Diode Bridge PB10xx
+0
+4
+4
+Diode_THT
+Diode_Bridge_28.6x28.6x7.3mm_P18.0mm_P11.6mm
+Single phase bridge rectifier case 28.6x28.6mm, pitch 18.0mm & 11.6mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/kbpc1500fw.pdf
+Diode Bridge KBPCxxxxWP
+0
+4
+4
+Diode_THT
+Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm
+Diotec 32x5.6x17mm rectifier package, 7.5mm/10mm pitch, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700.pdf
+Diotec rectifier diode bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_DIP-4_W5.08mm_P2.54mm
+4-lead dip package for diode bridges, row spacing 5.08mm, pin-spacing 2.54mm, see http://www.vishay.com/docs/88898/b2m.pdf
+DIL DIP PDIP 5.08mm 2.54
+0
+4
+4
+Diode_THT
+Diode_Bridge_DIP-4_W7.62mm_P5.08mm
+4-lead dip package for diode bridges, row spacing 7.62 mm (300 mils), see http://cdn-reichelt.de/documents/datenblatt/A400/HDBL101G_20SERIES-TSC.pdf
+DIL DIP PDIP 5.08mm 7.62mm 300mil
+0
+4
+4
+Diode_THT
+Diode_Bridge_IXYS_GUFP
+Three phase, Bridge, Rectifier
+diode module
+0
+5
+5
+Diode_THT
+Diode_Bridge_Round_D8.9mm
+4-lead round diode bridge package, diameter 8.9mm, pin pitch 5.08mm, see http://cdn-reichelt.de/documents/datenblatt/A400/W005M-W10M_SEP.PDF
+diode bridge 8.9mm 8.85mm WOB pitch 5.08mm
+0
+4
+4
+Diode_THT
+Diode_Bridge_Round_D9.0mm
+4-lead round diode bridge package, diameter 9.0mm, pin pitch 5.0mm, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40r.pdf
+diode bridge 9.0mm 8.85mm WOB pitch 5.0mm
+0
+4
+4
+Diode_THT
+Diode_Bridge_Round_D9.8mm
+4-lead round diode bridge package, diameter 9.8mm, pin pitch 5.08mm, see http://www.vishay.com/docs/88769/woo5g.pdf
+diode bridge 9.8mm WOG pitch 5.08mm
+0
+4
+4
+Diode_THT
+Diode_Bridge_Vishay_GBL
+Vishay GBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88609/gbl005.pdf
+Vishay GBL rectifier diode bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_Vishay_GBU
+Vishay GBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88606/g3sba20.pdf
+Vishay GBU rectifier diode bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_Vishay_KBL
+Vishay KBL rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88655/kbl005.pdf
+Vishay KBL rectifier diode bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_Vishay_KBPC1
+Single phase bridge rectifier case KBPC1, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf
+Diode Bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_Vishay_KBPC6
+Single phase bridge rectifier case KBPC6, see http://www.vishay.com/docs/93585/vs-kbpc1series.pdf
+Diode Bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_Vishay_KBPM
+Vishay KBM rectifier package, 3.95mm pitch (http://www.farnell.com/datasheets/2238158.pdf, http://www.cdil.com/s/kbp2005_.pdf)
+Vishay KBM rectifier diode bridge
+0
+4
+4
+Diode_THT
+Diode_Bridge_Vishay_KBU
+Vishay KBU rectifier package, 5.08mm pitch, see http://www.vishay.com/docs/88656/kbu4.pdf
+Vishay KBU rectifier diode bridge
+0
+4
+4
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.00u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 1.00u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.25u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 1.25u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.50u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 1.50u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.75u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 1.75u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.00u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 2.00u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.25u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 2.25u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.50u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 2.50u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.75u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 2.75u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_3.00u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 3.00u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_4.00u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 4.00u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_4.50u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 4.50u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_5.50u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 5.50u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_6.00u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 6.00u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_6.25u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 6.25u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_6.50u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 6.50u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_7.00u
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate 7.00u
+0
+2
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_ISOEnter
+Alps/Matias keyswitch (Matias is Alps Compatible), https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Alps Matias Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 1.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 2.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 3.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 3.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 4.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 4.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_5.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 5.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u_Offset
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 6.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_7.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB 7.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_Rotated90
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_Rotated180
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_Rotated270
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch PCB ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 1.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.25u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.50u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.75u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 2.75u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 3.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u_Rotated
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 3.00u Rotated
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 4.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 4.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_5.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 5.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u_Offset
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.25u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.25u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.50u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 6.50u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_7.00u
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate 7.00u
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_Rotated90
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_Rotated180
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_Rotated270
+Cherry MX keyswitch, https://www.cherrymx.de/en/dev.html
+Cherry MX Keyboard Keyswitch Switch Plate ISOEnter
+0
+2
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.00u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.00u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.25u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.25u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.50u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.50u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.75u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.75u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.00u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.00u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.25u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.25u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.50u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.50u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.75u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.75u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_3.00u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 3.00u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_4.00u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 4.00u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_4.50u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 4.50u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_5.50u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 5.50u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_6.00u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 6.00u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_6.25u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 6.25u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_6.50u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 6.50u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_7.00u
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 7.00u
+0
+3
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_ISOEnter
+Cherry MX / Alps keyswitch hybrid, https://www.cherrymx.de/en/dev.html, https://github.com/keyboardio/keyswitch_documentation/blob/master/datasheets/ALPS/SKCL.pdf
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB ISOEnter
+0
+3
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_1.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_1.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.25u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_1.25u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.25u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_1.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_1.50u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.50u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_1.75u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.75u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_1.75u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 1.75u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.00u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.00u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.25u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.25u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.25u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.50u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.50u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.75u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.75u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_2.75u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 2.75u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_3.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 3.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_3.00u_Rotated
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 3.00u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_4.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 4.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_4.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 4.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_5.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 5.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_6.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_6.00u_Offset
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_6.25u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.25u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_6.50u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 6.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_7.00u
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket 7.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_ISOEnter
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_ISOEnter_Rotated90
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_ISOEnter_Rotated180
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Hotswap_Kailh_ISOEnter_Rotated270
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket ISOEnter
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.25u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.25u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.25u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.25u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.50u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.50u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.75u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.75u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_1.75u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 1.75u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.00u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.00u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.25u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.25u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.25u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.25u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.50u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.50u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.75u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.75u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_2.75u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 2.75u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_3.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 3.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_3.00u_Rotated
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 3.00u Rotated
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_4.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 4.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_4.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 4.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_5.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 5.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_6.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_6.00u_Offset
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_6.25u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.25u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_6.50u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 6.50u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_7.00u
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch 7.00u
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_ISOEnter
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_ISOEnter_Rotated90
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_ISOEnter_Rotated180
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+Switch_Keyboard_Kailh
+SW_Kailh_Choc_V1_ISOEnter_Rotated270
+Kailh Choc V1 keyswitch, http://www.kailh.com/en/Products/Ks/CS/
+Kailh Choc V1 Keyswitch Switch ISOEnter
+0
+2
+2
+footprint
+1pin_conn
+Resitance 3 pas
+R
+0
+1
+1
+footprint
+ArduinoProMicro-ZigZag_rev2
+
+
+0
+24
+24
+footprint
+ArduinoProMicro-ZigZag_rev3
+
+
+0
+24
+24
+footprint
+ArduinoProMicro-ZigZag_rev4
+
+
+0
+24
+24
+footprint
+ArduinoProMicro-ZigZag_rev5
+
+
+0
+24
+24
+footprint
+CherryMX_Choc_Hotswap_2.25U_Outline
+
+
+0
+0
+0
+footprint
+CherryMX_Choc_Hotswap_2.75U_Outline
+
+
+0
+0
+0
+footprint
+CherryMX_Choc_Hotswap_2U_Outline
+
+
+0
+0
+0
+footprint
+CherryMX_Choc_Hotswap_rev1
+
+
+0
+4
+2
+footprint
+CherryMX_Choc_Hotswap_rev2
+
+
+0
+20
+2
+footprint
+CherryMX_Choc_Hotswap_rev3
+
+
+0
+21
+2
+footprint
+CherryMX_Choc_Hotswap_rev4
+
+
+0
+21
+2
+footprint
+CherryMX_MidHeight_Choc_Hotswap_rev5
+
+
+0
+21
+2
+footprint
+CherryMX_MidHeight_Choc_Silk
+
+
+0
+0
+0
+footprint
+CherryMX_MidHeight_Choc_Silk_Line
+
+
+0
+0
+0
+footprint
+Chidori_F_Cu
+
+
+0
+0
+0
+footprint
+Chidori_F_SilkS
+
+
+0
+0
+0
+footprint
+D3_SMD
+Resitance 3 pas
+R
+0
+4
+2
+footprint
+D3_TH_SMD
+Resitance 3 pas
+R
+0
+6
+2
+footprint
+IM_HOLE
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+footprint
+Kagome_B_Cu
+
+
+0
+0
+0
+footprint
+Kagome_F_SilkS
+
+
+0
+0
+0
+footprint
+Keyswitch_Plate_Hole
+
+
+0
+0
+0
+footprint
+M1.4_tapping_Hole
+Resitance 3 pas
+R
+0
+0
+0
+footprint
+M1.4_tapping_Pad
+Resitance 3 pas
+R
+0
+1
+0
+footprint
+M1.4_tapping_Pad_1.8mm
+Resitance 3 pas
+R
+0
+1
+0
+footprint
+M2
+Resitance 3 pas
+R
+0
+1
+0
+footprint
+M2_Hole
+Resitance 3 pas
+R
+0
+0
+0
+footprint
+M2_Pad
+Resitance 3 pas
+R
+0
+1
+1
+footprint
+M2_spacer
+Resitance 3 pas
+R
+0
+0
+0
+footprint
+M3
+Resitance 3 pas
+R
+0
+1
+0
+footprint
+MJ-4PP-9
+
+
+0
+4
+4
+footprint
+MJ-4PP-9_reversible
+
+
+0
+8
+4
+footprint
+MountingHole_2.2mm_M2_Pad_Via
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+footprint
+PinHeader_1x04_P2.54mm_Vertical
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+footprint
+PinHeader_1x06_P2.54mm_Vertical
+Through hole straight pin header, 1x06, 2.54mm pitch, single row
+Through hole pin header THT 1x06 2.54mm single row
+0
+6
+6
+footprint
+PinHeader_1x08_P2.54mm_Vertical
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+footprint
+PinHeader_1x08_P2.54mm_Vertical_2line
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+8
+8
+footprint
+PinHeader_1x08_P2.54mm_Vertical_rev2
+Through hole straight pin header, 1x08, 2.54mm pitch, single row
+Through hole pin header THT 1x08 2.54mm single row
+0
+8
+8
+footprint
+PinHeader_1x10_P2.54mm_Vertical
+Through hole straight pin header, 1x10, 2.54mm pitch, single row
+Through hole pin header THT 1x10 2.54mm single row
+0
+10
+10
+footprint
+PinSocket_1x03_P2.00mm_Vertical
+Through hole straight socket strip, 1x03, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x03 2.00mm single row
+0
+3
+3
+footprint
+PinSocket_1x06_P2.00mm_Vertical
+Through hole straight socket strip, 1x06, 2.00mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x06 2.00mm single row
+0
+6
+6
+footprint
+Pin_Header_Straight_1x03
+Through hole pin header
+pin header
+0
+3
+3
+footprint
+Pin_Header_Straight_2x20
+Through hole pin header
+pin header
+0
+40
+40
+footprint
+ProMicro
+
+
+0
+24
+24
+footprint
+RJ45
+Shielded, 2 LED, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
+RJ45 8p8c ethernet cat5
+0
+18
+9
+footprint
+RJ45_rev2
+Shielded, 2 LED, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
+RJ45 8p8c ethernet cat5
+0
+18
+9
+footprint
+RPi_Hat_Mounting_Hole
+Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
+Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
+0
+0
+0
+footprint
+RPi_Pin_Header_Straight_2x20
+Through hole pin header
+pin header
+0
+44
+40
+footprint
+ResetSW
+
+
+0
+2
+2
+footprint
+ResetSW_4P
+
+
+0
+4
+2
+footprint
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+footprint
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_rev2
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+footprint
+RotaryEncoder_Plate_Hole
+
+
+0
+0
+0
+footprint
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+footprint
+Samtec_HLE-120-02-xxx-DV-BE-A_2x20_RPi_Bottom
+Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-140-02-xxx-DV-BE-A, 20 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator
+connector Samtec  top entry
+0
+40
+40
+footprint
+Samtec_HLE-120-02-xxx-DV-BE-A_2x20_RPi_Top
+Samtec HLE .100" Tiger Beam Cost-effective Single Beam Socket Strip, HLE-140-02-xxx-DV-BE-A, 20 Pins per row (http://suddendocs.samtec.com/prints/hle-1xx-02-xxx-dv-xx-xx-xx-mkt.pdf, http://suddendocs.samtec.com/prints/hle-dv-footprint.pdf), generated with kicad-footprint-generator
+connector Samtec  top entry
+0
+40
+40
+footprint
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.0mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+footprint
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+footprint
+StripLED_rev1
+
+
+0
+6
+3
+footprint
+StripLED_rev2
+
+
+0
+3
+3
+footprint
+chidori
+
+
+0
+0
+0
+footprint
+chidori_guide
+
+
+0
+0
+0
+footprint
+diode
+
+
+0
+2
+2
+footprint
+diode_TH_SMD
+
+
+0
+6
+2
+footprint
+katakana_su
+
+
+0
+0
+0
+footprint
+wirepad
+
+
+0
+1
+1
+keebs
+Mx_Alps_100
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_125
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_150
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_175
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_200
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_225
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_275
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Mx_Alps_625
+MXALPS
+MXALPS
+0
+2
+2
+keebs
+Pro_Micro
+
+
+0
+24
+24
+keebs
+Teensy_20
+
+
+0
+31
+31
+keyboard_parts
+4P4C
+http://www.assmann.us/specs/A-2004-3-4-LP-N-R_REV00.pdf
+4P4C, RJ
+0
+6
+6
+keyboard_parts
+ALPS_PLATE_SPRING
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+3
+keyboard_parts
+ALPS_PLATE_SPRING_CUTOUT
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+keyboard_parts
+ALPS_SKCM_CUTOUT
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB256
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB406
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_CUTOUT_STAB883
+
+
+0
+0
+0
+keyboard_parts
+ALPS_SKCM_LED
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+4
+4
+keyboard_parts
+ALPS_SKCM_reverse_pad
+http://deskthority.net/wiki/File:Alps_Electric_--_spec_--_5454_31.pdf
+ALPS, keyboard switch, SKCM, SKCL
+0
+2
+2
+keyboard_parts
+AVR_ICSP_3x2
+Double rangee de contacts 2 x 4 pins
+CONN
+0
+6
+6
+keyboard_parts
+C_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+C_1608_rev2
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+C_3216
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3216_rev2
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3225
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3528
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_3528_pol
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+C_6032
+SMD, 3216, 1210, C
+SMD, 3216, 1210, C
+0
+2
+2
+keyboard_parts
+DSUB9P
+
+
+0
+11
+10
+keyboard_parts
+D_SC79
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+D_SOD123
+
+
+0
+2
+2
+keyboard_parts
+D_SOD123W_hand
+
+
+0
+2
+2
+keyboard_parts
+D_SOD123_axial
+
+
+0
+6
+2
+keyboard_parts
+D_SOD123_hand
+
+
+0
+2
+2
+keyboard_parts
+D_axial
+
+
+0
+2
+2
+keyboard_parts
+FA-238
+
+
+0
+4
+3
+keyboard_parts
+HC-49_SMT
+
+
+0
+2
+2
+keyboard_parts
+HHKB_JP_HRS_DF14_15P
+http://www.mouser.com/ds/2/185/e53800017-12550.pdf
+HHKB JP, HRS, Hirose, DF14, 15P
+0
+17
+17
+keyboard_parts
+HHKB_PRO2_ZH13
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+HHKB pro2, JST, ZH
+0
+15
+15
+keyboard_parts
+HHKB_PRO2_ZH13_TH
+http://www.jst-mfg.com/product/pdf/eng/eZH.pdf
+JST ZH 13 HHKB pro2
+0
+13
+13
+keyboard_parts
+HHKB_PRO_PH15
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST PH 15 HHKB PRO
+0
+15
+15
+keyboard_parts
+HOLE_M2.6
+
+
+0
+1
+1
+keyboard_parts
+HOLE_M3
+
+
+0
+1
+1
+keyboard_parts
+HRS_DF14_20P
+http://www.mouser.com/ds/2/185/e53800017-12550.pdf
+HHKB JP, HRS, Hirose, DF14, 15P
+0
+22
+22
+keyboard_parts
+JST_PH2_SMT
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST, PH, Lipo, battery
+0
+4
+3
+keyboard_parts
+JST_PH2_SMT_TH
+http://www.jst-mfg.com/product/pdf/eng/ePH.pdf
+JST, PH, Lipo, battery
+0
+6
+3
+keyboard_parts
+JST_PH2_TH
+
+JST, PH2, Lipo
+0
+2
+2
+keyboard_parts
+LED_0805
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+keyboard_parts
+LED_2012_HSOL
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+keyboard_parts
+LED_3020_REFLOW
+LED 0805 smd package
+LED 0805 SMD
+0
+2
+2
+keyboard_parts
+LED_3025_DUAL
+
+
+0
+4
+4
+keyboard_parts
+LED_TH
+LED 3mm - Lead pitch 100mil (2,54mm)
+LED led 3mm 3MM 100mil 2,54mm
+0
+2
+2
+keyboard_parts
+LED_TH_BIVAR
+LED 3mm - Lead pitch 100mil (2,54mm)
+LED led 3mm 3MM 100mil 2,54mm
+0
+2
+2
+keyboard_parts
+LTC4054
+
+Lipo charger
+0
+5
+5
+keyboard_parts
+L_6x6MM
+
+
+0
+2
+2
+keyboard_parts
+L_7x7MM
+
+
+0
+2
+2
+keyboard_parts
+MINI_DIN_8
+
+
+0
+11
+9
+keyboard_parts
+MOS_FET_SOT23-3_HSOL
+SOT23
+
+0
+3
+3
+keyboard_parts
+PIN_1
+
+CONN pin 1 circle
+0
+1
+1
+keyboard_parts
+PIN_1_SQUARE
+
+CONN pin 1 square
+0
+1
+1
+keyboard_parts
+PPTC_nano
+
+
+0
+2
+2
+keyboard_parts
+PTC_3225
+
+
+0
+2
+2
+keyboard_parts
+Poker_oval_hole
+
+
+0
+1
+0
+keyboard_parts
+Poker_side_edge_long
+
+
+0
+1
+0
+keyboard_parts
+QFP32
+
+
+0
+32
+32
+keyboard_parts
+QFP32_reflow
+http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
+
+0
+32
+32
+keyboard_parts
+QFP44
+
+
+0
+44
+44
+keyboard_parts
+QFP44_reflow
+http://www.atmel.com/images/atmel-8826-seeprom-pcb-mounting-guidelines-surface-mount-packages-applicationnote.pdf
+
+0
+44
+44
+keyboard_parts
+RN42
+
+
+0
+32
+32
+keyboard_parts
+R_1608
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+R_1608_NOGUIDE
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+R_1608_rev2
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+R_2012
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+keyboard_parts
+SLP3-200-100-F
+
+
+0
+0
+0
+keyboard_parts
+SM_3216_POL
+
+
+0
+2
+2
+keyboard_parts
+SOLDER_JUMPER_2
+
+solder jumper bridge configuration
+0
+2
+2
+keyboard_parts
+SOLDER_JUMPER_2_WIRED
+
+solder jumper bridge configuration
+0
+3
+1
+keyboard_parts
+SOLDER_JUMPER_3
+
+solder jumper bridge configuration
+0
+3
+3
+keyboard_parts
+SOT23-3_HSOL
+SOT23
+
+0
+3
+3
+keyboard_parts
+SOT23-5_HSOL
+SOT23
+
+0
+5
+5
+keyboard_parts
+SOT23-6_HSOL
+SOT23
+
+0
+6
+6
+keyboard_parts
+SW_ALPS_SKRP
+
+
+0
+4
+2
+keyboard_parts
+SW_ALPS_SKSG
+
+
+0
+6
+4
+keyboard_parts
+SW_ALPS_SSAA
+
+
+0
+8
+8
+keyboard_parts
+SW_MINI_SLIDE
+
+
+0
+6
+6
+keyboard_parts
+SW_TACT_TH_HORIZ
+http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHH/SKHHLMA010.html
+ALPS SKHH tactile switch
+0
+4
+4
+keyboard_parts
+SW_TACT_TH_HORIZ_LOW
+http://www.alps.com/products/WebObjects/catalog.woa/E/HTML/Tact/SnapIn/SKHL/SKHLLAA010.html
+ALPS SKHLL low tactile switch
+0
+4
+4
+keyboard_parts
+USB_A
+
+
+0
+6
+5
+keyboard_parts
+USB_A_PLUG
+
+
+0
+8
+6
+keyboard_parts
+USB_microB
+USB microB hirose ZX62R-B-5P
+USB micorB hirose
+0
+11
+6
+keyboard_parts
+USB_miniB
+http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+USB miniB hirose
+0
+9
+9
+keyboard_parts
+USB_miniB_hirose_5S8
+USB miniB hirose UX60SC-MB-5S8
+USB miniB hirose through hole UX60SC-MB-5S8
+0
+9
+6
+keyboard_parts
+USB_miniB_hirose_5ST
+USB miniB hirose UX60SC_MB_5ST
+USB miniB hirose new
+0
+7
+6
+keyboard_parts
+USB_miniB_hirose_5ST_hand
+USB miniB hirose UX60SC_MB_5ST
+USB miniB hirose new
+0
+7
+6
+keyboard_parts
+WT12_bluegiga
+
+BlueGiga, WT12, Bluetooth
+0
+31
+31
+keyboard_parts
+XTAL_HC_49_TH
+
+
+0
+2
+2
+keyboard_parts
+tmk2016
+
+
+0
+0
+0
+keyboard_parts
+tmk_logo
+
+
+0
+0
+0
+keyswitches
+Kailh_socket_MX
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX_optional
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_MX_optional_platemount
+MX-style keyswitch with support for optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_MX_optional_reversible
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+8
+2
+keyswitches
+Kailh_socket_MX_optional_reversible_platemount
+MX-style keyswitch with support for reversible optional Kailh socket
+MX,cherry,gateron,kailh,pg1511,socket
+0
+8
+2
+keyswitches
+Kailh_socket_MX_platemount
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+keyswitches
+Kailh_socket_MX_reversible
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_MX_reversible_platemount
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+keyswitches
+Kailh_socket_PG1350
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+keyswitches
+Kailh_socket_PG1350_optional
+Kailh "Choc" PG1350 keyswitch with optional socket mount
+kailh,choc
+0
+4
+2
+keyswitches
+Kailh_socket_PG1350_optional_reversible
+Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
+kailh,choc
+0
+7
+2
+keyswitches
+Kailh_socket_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch reversible socket mount
+kailh,choc
+0
+4
+2
+keyswitches
+SW_MX
+MX-style keyswitch
+MX,cherry,gateron,kailh
+0
+2
+2
+keyswitches
+SW_MX_reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
+0
+4
+2
+keyswitches
+SW_MX_reversible_minimal
+MX-style keyswitch, reversible, without pcb-mount holes
+MX,cherry,gateron,kailh
+0
+4
+2
+keyswitches
+SW_PG1350
+Kailh "Choc" PG1350 keyswitch
+kailh,choc
+0
+2
+2
+keyswitches
+SW_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+3
+2
+keyswitches
+SW_PG1350_reversible_rotatable
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
+kailh,choc
+0
+6
+2
+keyswitches
+Stabilizer_MX_2u
+MX-style stabilizer mount
+MX,cherry,gateron,kailh,pg1511,stabilizer,stab
+0
+0
+0
+promicro
+ProMicro
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+promicro
+ProMicro-EnforcedTop
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+promicro
+ProMicro-NoSilk
+Pro Micro footprint
+promicro ProMicro
+0
+24
+24
+rotaryencoder
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+rotaryencoder
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_CircularMountingHoles
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+rotaryencoder
+RotaryEncoder_Alps_EC11E_Vertical_H20mm
+Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+4
+rotaryencoder
+RotaryEncoder_Alps_EC11E_Vertical_H20mm_CircularMountingHoles
+Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+4
+rotaryencoder
+RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
+rotary encoder
+0
+7
+6
+rotaryencoder
+RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles
+Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF
+rotary encoder
+0
+7
+6
+rotaryencoder
+RotaryEncoder_Alps_EC12E_Vertical_H20mm
+Alps rotary encoder, EC12E..., vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html
+rotary encoder
+0
+5
+4
+rotaryencoder
+RotaryEncoder_Alps_EC12E_Vertical_H20mm_CircularMountingHoles
+Alps rotary encoder, EC12E..., vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html
+rotary encoder
+0
+5
+4
